@@ -160,8 +160,3 @@ AntiOcrStudio/
 
 欢迎提交 Issue 和 Pull Request。添加插件时，请将文件放到 `android/app/src/main/assets/plugins/`，在 `manifest.json` 中登记，并在真机算法管线中验证。  
 Issues and pull requests are welcome. When adding a plugin, place it in `android/app/src/main/assets/plugins/`, register it in `manifest.json`, and verify it in the on-device pipeline.
-
-## 许可证 / License
-
-项目尚未指定许可证。对外使用或分发前，请先添加许可证文件。  
-No license has been specified yet. Add a license file before using or redistributing this project outside your organization.
